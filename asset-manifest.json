@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/wildfire-tracker/static/css/main.a26bbdc5.chunk.css",
+    "main.js": "/wildfire-tracker/static/js/main.9681054a.chunk.js",
+    "main.js.map": "/wildfire-tracker/static/js/main.9681054a.chunk.js.map",
+    "runtime-main.js": "/wildfire-tracker/static/js/runtime-main.f4287c38.js",
+    "runtime-main.js.map": "/wildfire-tracker/static/js/runtime-main.f4287c38.js.map",
+    "static/js/2.d95fb657.chunk.js": "/wildfire-tracker/static/js/2.d95fb657.chunk.js",
+    "static/js/2.d95fb657.chunk.js.map": "/wildfire-tracker/static/js/2.d95fb657.chunk.js.map",
+    "index.html": "/wildfire-tracker/index.html",
+    "static/css/main.a26bbdc5.chunk.css.map": "/wildfire-tracker/static/css/main.a26bbdc5.chunk.css.map",
+    "static/js/2.d95fb657.chunk.js.LICENSE.txt": "/wildfire-tracker/static/js/2.d95fb657.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4287c38.js",
+    "static/js/2.d95fb657.chunk.js",
+    "static/css/main.a26bbdc5.chunk.css",
+    "static/js/main.9681054a.chunk.js"
+  ]
+}
